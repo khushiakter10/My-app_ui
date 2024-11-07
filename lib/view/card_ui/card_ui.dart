@@ -52,7 +52,7 @@ class CardUi extends StatelessWidget {
                           SizedBox(
                             height: 180,
                             child: Card(
-                              color: const Color(0xffcacfd2),
+                              color: Color(0xffcacfd2),
                               margin: EdgeInsets.zero,
                               elevation: 1,
                               shape: const OutlineInputBorder(
@@ -64,7 +64,7 @@ class CardUi extends StatelessWidget {
                               ),
                             ),
                           ),
-                          const SizedBox(height: 7,),
+                          SizedBox(height: 7,),
                           const Text(
                             "Kiwis",
                             style: TextStyle(
@@ -72,12 +72,12 @@ class CardUi extends StatelessWidget {
                                 fontWeight: FontWeight.bold,
                                 fontSize: 20),
                           ),
-                          const Text("67.7 MB")
+                          Text("67.7 MB")
                         ],
                       ),
                     ),
                   ),
-                  const SizedBox(width: 15,),
+                  SizedBox(width: 15,),
                   Card(
                     color: Colors.white,
                     shape: OutlineInputBorder(
@@ -92,7 +92,7 @@ class CardUi extends StatelessWidget {
                           SizedBox(
                             height: 180,
                             child: Card(
-                              color: const Color(0xffcacfd2),
+                              color: Color(0xffcacfd2),
                               margin: EdgeInsets.zero,
                               elevation: 1,
                               shape: const OutlineInputBorder(
@@ -104,7 +104,7 @@ class CardUi extends StatelessWidget {
                               ),
                             ),
                           ),
-                          const SizedBox(height: 7,),
+                          SizedBox(height: 7,),
                           const Text(
                             "Lemons",
                             style: TextStyle(
@@ -112,7 +112,7 @@ class CardUi extends StatelessWidget {
                                 fontWeight: FontWeight.bold,
                                 fontSize: 20),
                           ),
-                          const Text("36 MB")
+                          Text("36 MB")
                         ],
                       ),
                     ),
@@ -135,7 +135,7 @@ class CardUi extends StatelessWidget {
                           SizedBox(
                             height: 180,
                             child: Card(
-                              color: const Color(0xffcacfd2),
+                              color: Color(0xffcacfd2),
                               margin: EdgeInsets.zero,
                               elevation: 1,
                               shape: const OutlineInputBorder(
@@ -147,7 +147,7 @@ class CardUi extends StatelessWidget {
                               ),
                             ),
                           ),
-                          const SizedBox(height: 7,),
+                          SizedBox(height: 7,),
                           const Text(
                             "Lemons",
                             style: TextStyle(
@@ -155,12 +155,12 @@ class CardUi extends StatelessWidget {
                                 fontWeight: FontWeight.bold,
                                 fontSize: 20),
                           ),
-                          const Text("100 MB")
+                          Text("100 MB")
                         ],
                       ),
                     ),
                   ),
-                  const SizedBox(width: 15,),
+                  SizedBox(width: 15,),
                   Card(
                     color: Colors.white,
                     shape: OutlineInputBorder(
@@ -175,7 +175,7 @@ class CardUi extends StatelessWidget {
                           SizedBox(
                             height: 180,
                             child: Card(
-                              color: const Color(0xffcacfd2),
+                              color: Color(0xffcacfd2),
                               margin: EdgeInsets.zero,
                               elevation: 1,
                               shape: const OutlineInputBorder(
@@ -187,7 +187,7 @@ class CardUi extends StatelessWidget {
                               ),
                             ),
                           ),
-                          const SizedBox(height: 7,),
+                          SizedBox(height: 7,),
                           const Text(
                             "Mango",
                             style: TextStyle(
@@ -195,7 +195,7 @@ class CardUi extends StatelessWidget {
                                 fontWeight: FontWeight.bold,
                                 fontSize: 20),
                           ),
-                          const Text("20 MB")
+                          Text("20 MB")
                         ],
                       ),
                     ),
@@ -218,7 +218,7 @@ class CardUi extends StatelessWidget {
                           SizedBox(
                             height: 180,
                             child: Card(
-                              color: const Color(0xffcacfd2),
+                              color: Color(0xffcacfd2),
                               margin: EdgeInsets.zero,
                               elevation: 1,
                               shape: const OutlineInputBorder(
@@ -230,20 +230,20 @@ class CardUi extends StatelessWidget {
                               ),
                             ),
                           ),
-                          const SizedBox(height: 7,),
+                          SizedBox(height: 7,),
                           const Text(
-                            "Tetul",
+                            "Mango",
                             style: TextStyle(
                                 color: Colors.black,
                                 fontWeight: FontWeight.bold,
                                 fontSize: 20),
                           ),
-                          const Text("60 MB")
+                          Text("20 MB")
                         ],
                       ),
                     ),
                   ),
-                  const SizedBox(width: 15,),
+                  SizedBox(width: 15,),
                   Card(
                     color: Colors.white,
                     shape: OutlineInputBorder(
@@ -258,7 +258,7 @@ class CardUi extends StatelessWidget {
                           SizedBox(
                             height: 180,
                             child: Card(
-                              color: const Color(0xffcacfd2),
+                              color: Color(0xffcacfd2),
                               margin: EdgeInsets.zero,
                               elevation: 1,
                               shape: const OutlineInputBorder(
@@ -270,15 +270,15 @@ class CardUi extends StatelessWidget {
                               ),
                             ),
                           ),
-                          const SizedBox(height: 7,),
+                          SizedBox(height: 7,),
                           const Text(
-                            "jam",
+                            "",
                             style: TextStyle(
                                 color: Colors.black,
                                 fontWeight: FontWeight.bold,
                                 fontSize: 20),
                           ),
-                          const Text("15 MB")
+                          Text("20 MB")
                         ],
                       ),
                     ),
